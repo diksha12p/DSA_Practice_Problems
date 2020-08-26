@@ -11,3 +11,4 @@ def print_pascal(num_rows):
 
 n = 5
 print(print_pascal(n))
+
