@@ -6,7 +6,7 @@
 
 # Description
 
-This repository contains solutions to various problems solved on LeetCode. 
+This repository contains solutions to various problems solved on Data Structures & Algorithms (posted on LeetCode). 
 
 DISCLAIMER: The solutions are functional but may not be optimal. Please feel free to suggest optimizations. 
 
